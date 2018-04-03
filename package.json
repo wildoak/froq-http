@@ -1,7 +1,10 @@
 {
   "name": "froq-http",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "engines": {
     "node": ">=6.10",
     "npm": ">=3.10.10"
